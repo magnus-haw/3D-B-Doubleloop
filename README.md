@@ -13,7 +13,8 @@ The python plotting code is located in the plot_data folder. The only plotting s
 
 ## Prerequisites for Python plotting
 
-Plotting software uses Python Mayavi2 and matplotlib libraries.
+Plotting software uses Mayavi2 and matplotlib libraries.
 
 WINDOWS: recommend installing PythonXY which includes all packages (need to specify full install)
+
 Unix: Use package manager to install. 
