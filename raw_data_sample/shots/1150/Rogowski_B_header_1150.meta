@@ -1,0 +1,3 @@
+#Rogowski_BInstalled Aug. 2014
+#Period(sec.), start_index, columns, data_length, mean bias estimate, attenuator(dB), calibration factor(Amps/Volt)
+1.0E-008,0,2,32768,0.085000,0,450000.000000

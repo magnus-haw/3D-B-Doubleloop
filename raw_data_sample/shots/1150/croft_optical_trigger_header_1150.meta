@@ -1,0 +1,3 @@
+#No calibration
+#Period(sec.), start_index, columns, data_length, mean bias estimate, attenuator(dB), calibration factor(Volts/Volt)
+1.0E-008,0,1,16384,0.457874,20,1.000000

@@ -1,0 +1,58 @@
+Date (YYYYMMDD),20151014
+systime,Wed Oct 14 17:39:20 2015
+Gas type,Ar
+Gas line pressure (psig),60
+Discharge voltage (kV),3.0
+All gas (V), 600
+All bias (V), 200
+Bdot probe theta (deg),90
+Bdot probe z (cm), 12.9
+Note, testing magnetic probe v2. Plugged in ribbon cables correctly this time
+
+Main Bank A,0.000000E+0
+Main Bank B,0.000000E+0
+HV probe A,-5.000000E-5
+HV probe B,-5.000000E-5
+A Bias Top,-8.001000E-3
+A Gas Top,-6.501000E-3
+B Bias Low,-8.001000E-3
+B Gas Low,-6.501000E-3
+Main Bank B,0.000000E+0
+VME Dataq,1.295000E-3
+Imacon,5.000000E-8
+Spectro init,-6.000000E-6
+Blank,6.000000E-3
+A Bias Low,-8.000000E-3
+A Gas Low,-5.000000E-3
+B Bias Top,-8.000000E-3
+B Gas Top,-5.000000E-3
+Main Bank A,0.000000E+0
+-,0.000000E+0
+-,0.000000E+0
+-,0.000000E+0
+Spectro Open,0.000000E+0
+-,0.000000E+0
+-,0.000000E+0
+-,2.950000E-4
+Main Bank B,0.000000E+0
+-,0.000000E+0
+-,0.000000E+0
+-,0.000000E+0
+-,0.000000E+0
+-,0.000000E+0
+-,0.000000E+0
+-,0.000000E+0
+-,1.295000E-3
+Imacon,5.000000E-8
+PI CCD upper,5.000000E-8
+PI CCD lower,5.000000E-8
+Spectro Close,3.000000E-7
+-,6.000000E-7
+-,2.000000E-3
+-,2.000000E-3
+-,1.000000E-6
+-,1.000000E-6
+-,1.000000E-6
+-,1.000000E-6
+-,1.000000E-6
+-,1.000000E-6
